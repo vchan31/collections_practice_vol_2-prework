@@ -51,7 +51,7 @@ end
 answer.uniq
 end
 
-## must review these last three problems
+## must review these last three problems as I didnt not come up with the solutions myself....
 
 def merge_data(keys,data)
   merged_hashes = []
